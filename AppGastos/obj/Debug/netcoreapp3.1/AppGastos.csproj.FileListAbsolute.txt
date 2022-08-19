@@ -1,0 +1,14 @@
+C:\Programas_Juli\AppGastos\AppGastos\bin\Debug\netcoreapp3.1\AppGastos.exe
+C:\Programas_Juli\AppGastos\AppGastos\bin\Debug\netcoreapp3.1\AppGastos.deps.json
+C:\Programas_Juli\AppGastos\AppGastos\bin\Debug\netcoreapp3.1\AppGastos.runtimeconfig.json
+C:\Programas_Juli\AppGastos\AppGastos\bin\Debug\netcoreapp3.1\AppGastos.runtimeconfig.dev.json
+C:\Programas_Juli\AppGastos\AppGastos\bin\Debug\netcoreapp3.1\AppGastos.dll
+C:\Programas_Juli\AppGastos\AppGastos\bin\Debug\netcoreapp3.1\AppGastos.pdb
+C:\Programas_Juli\AppGastos\AppGastos\obj\Debug\netcoreapp3.1\AppGastos.csproj.AssemblyReference.cache
+C:\Programas_Juli\AppGastos\AppGastos\obj\Debug\netcoreapp3.1\AppGastos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas_Juli\AppGastos\AppGastos\obj\Debug\netcoreapp3.1\AppGastos.AssemblyInfoInputs.cache
+C:\Programas_Juli\AppGastos\AppGastos\obj\Debug\netcoreapp3.1\AppGastos.AssemblyInfo.cs
+C:\Programas_Juli\AppGastos\AppGastos\obj\Debug\netcoreapp3.1\AppGastos.csproj.CoreCompileInputs.cache
+C:\Programas_Juli\AppGastos\AppGastos\obj\Debug\netcoreapp3.1\AppGastos.dll
+C:\Programas_Juli\AppGastos\AppGastos\obj\Debug\netcoreapp3.1\AppGastos.pdb
+C:\Programas_Juli\AppGastos\AppGastos\obj\Debug\netcoreapp3.1\AppGastos.genruntimeconfig.cache
